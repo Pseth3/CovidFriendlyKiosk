@@ -1,0 +1,2 @@
+# CovidFriendlyKiosk
+Computer vision empowers machines to detect and recognise different objects in the surroundings just like humans. The information derived can be used to make decisions in critical applications. These applications can help safeguard against the spread of harmful diseases by minimising contact with surfaces accessible to the public like touchscreen kiosks in the cafeterias.. This can be achieved by implementing gesture control in the kiosks.
