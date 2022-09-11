@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cancel</folder>
+	<filename>cancel.970c12c7-5462-11ec-bc74-5414f31aa17f.jpg</filename>
+	<path>C:\Users\prate\Documents\ComputerVision\Project\Final\TFODCourse\Tensorflow\workspace\images\collectedimages\cancel\cancel.970c12c7-5462-11ec-bc74-5414f31aa17f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cancel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>69</ymin>
+			<xmax>374</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

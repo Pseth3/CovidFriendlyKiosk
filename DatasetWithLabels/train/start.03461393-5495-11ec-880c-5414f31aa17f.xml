@@ -1,0 +1,26 @@
+<annotation>
+	<folder>start</folder>
+	<filename>start.03461393-5495-11ec-880c-5414f31aa17f.jpg</filename>
+	<path>C:\Users\prate\Documents\ComputerVision\Project\Final\TFODCourse\Tensorflow\workspace\images\collectedimages\start\start.03461393-5495-11ec-880c-5414f31aa17f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>start</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>154</ymin>
+			<xmax>367</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>three</folder>
+	<filename>three.b14fa797-5393-11ec-82cb-5414f31aa17f.jpg</filename>
+	<path>C:\Users\prate\Documents\ComputerVision\Project\Final\TFODCourse\Tensorflow\workspace\images\collectedimages\three\three.b14fa797-5393-11ec-82cb-5414f31aa17f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>128</ymin>
+			<xmax>230</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

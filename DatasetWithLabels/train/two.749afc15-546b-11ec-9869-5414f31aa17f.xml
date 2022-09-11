@@ -1,0 +1,26 @@
+<annotation>
+	<folder>two</folder>
+	<filename>two.749afc15-546b-11ec-9869-5414f31aa17f.jpg</filename>
+	<path>C:\Users\prate\Documents\ComputerVision\Project\Final\TFODCourse\Tensorflow\workspace\images\collectedimages\two\two.749afc15-546b-11ec-9869-5414f31aa17f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>81</ymin>
+			<xmax>397</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

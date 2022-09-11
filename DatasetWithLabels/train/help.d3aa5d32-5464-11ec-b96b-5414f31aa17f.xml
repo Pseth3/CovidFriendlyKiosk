@@ -1,0 +1,26 @@
+<annotation>
+	<folder>help</folder>
+	<filename>help.d3aa5d32-5464-11ec-b96b-5414f31aa17f.jpg</filename>
+	<path>C:\Users\prate\Documents\ComputerVision\Project\Final\TFODCourse\Tensorflow\workspace\images\collectedimages\help\help.d3aa5d32-5464-11ec-b96b-5414f31aa17f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>help</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>196</ymin>
+			<xmax>503</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

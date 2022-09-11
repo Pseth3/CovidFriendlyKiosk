@@ -1,0 +1,26 @@
+<annotation>
+	<folder>confirm</folder>
+	<filename>confirm.57b7503b-5463-11ec-94ea-5414f31aa17f.jpg</filename>
+	<path>C:\Users\prate\Documents\ComputerVision\Project\Final\TFODCourse\Tensorflow\workspace\images\collectedimages\confirm\confirm.57b7503b-5463-11ec-94ea-5414f31aa17f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>confirm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>137</ymin>
+			<xmax>525</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
